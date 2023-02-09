@@ -1,2 +1,2 @@
 #!/bin/bash
-0-current_working-directory 1-listis README.md
+ls
