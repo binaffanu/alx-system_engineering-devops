@@ -1,2 +1,2 @@
 #!/bin/bashi
-ls -a ls -a ../ /boot
+ls -la . .. /boot
