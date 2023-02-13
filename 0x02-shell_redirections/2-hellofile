@@ -1,0 +1,2 @@
+#!/bin/bash
+binaffanu "/etc/passwd""
